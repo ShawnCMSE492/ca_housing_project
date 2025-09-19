@@ -6,11 +6,11 @@ End to End ML Project - Chapter 2 of Hands‑On Machine Learning with Scikit‑
 
 ## Background & Objective (the “why”)
 
-The goal is a model with the capability to estimate 1990 CA district house prices from publicly available attributes (median income, rooms, latitude/longitude, etc). A well designed ML model helps with quick evaluations, automation, increased accuracy for downstream endeavors. 
+-The goal is a model with the capability to estimate 1990 CA district house prices from publicly available attributes (median income, rooms, latitude/longitude, etc). A well designed ML model helps with quick evaluations, automation, increased accuracy for downstream endeavors. 
 
-Target: median_house_value
+-Target: median_house_value
 
-Evaluation criterion: Minimize RMSE (root mean squared error).
+-Evaluation criterion: Minimize RMSE (root mean squared error).
 
 ## ML Project workflow:  
 
